@@ -1,0 +1,4 @@
+/run/numberOfThreads 4
+/run/initialize
+/gun/sourceType Na22  # Choose Na-22 source
+/run/beamOn 100000

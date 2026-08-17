@@ -1,0 +1,8 @@
+/vis/open OGL 600x600-0+0
+/vis/viewer/set/viewpointVector 1 1 1
+/vis/viewer/set/autoRefresh true 		  #autorefresh
+
+/vis/drawVolume
+/vis/scene/add/trajectories smooth 		  #show trajectories
+/vis/scene/endOfEventAction accumulate 100	  #show all trajectories after run is finished
+/vis/scene/add/scale 10 cm                 #For scale

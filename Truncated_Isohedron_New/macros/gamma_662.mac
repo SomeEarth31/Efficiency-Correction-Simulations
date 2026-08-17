@@ -1,0 +1,5 @@
+/run/numberOfThreads 4
+/run/initialize
+/gun/sourceType Gamma  # Choose Gamma source
+/gun/Energy 662 keV    # Set energy for monoenergetic gamma rays
+/run/beamOn 100000
